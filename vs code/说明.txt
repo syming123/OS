@@ -1,0 +1,7 @@
+vs code适用于c++的配置文件
+
+适用于windows系统
+run运行自带pause，但是断点会失效
+debug运行可以断点
+
+mingw64安装路径C:\mingw64\bin\gdb.exe
