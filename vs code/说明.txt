@@ -1,4 +1,4 @@
-vs code适用于c++的配置文件
+vs code适用于c++的配置文件，放在.vscode文件夹下
 
 适用于windows系统
 run运行自带pause，但是断点会失效
